@@ -1,0 +1,8 @@
+[
+  {
+    "directory": "/home/jimmy/dev/tutorial/builddir",
+    "command": "cc -Idemo@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -g -MD -MQ 'demo@exe/main.c.o' -MF 'demo@exe/main.c.o.d' -o 'demo@exe/main.c.o' -c ../main.c",
+    "file": "../main.c",
+    "output": "demo@exe/main.c.o"
+  }
+]
